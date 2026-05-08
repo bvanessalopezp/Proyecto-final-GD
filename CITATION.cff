@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Final Project
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Brianna Vanessa
+    family-names: Lopez Pardo
+    email: l22212261@tectijuana.edu.mx
+    affiliation: Tecnológico Nacional de México
+repository-code: >-
+  https://github.com/bvanessalopezp/Proyecto-final-GD/tree/main
+keywords:
+  - Mathematical Model
+  - Linear regression
+  - 2T prediction
+  - Equilibrium points
+  - Electrophysiology
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-05-08'
