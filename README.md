@@ -26,7 +26,6 @@ In the particular field of Systems Biology, a digital twin is presented as an al
 
 # Objetive
 To develop a digital twin of cardiac action potential dynamics by formulating a nonlinear mathematical model based on experimental data, enabling in silico experimentation to analyze, predict, and control the repolarization, depolarization, and refractory phases of cardiac cell behavior.
-## Mathematical Model
 
 The cardiac action potential dynamics are described by a three-state nonlinear dynamic system, where the state variables represent key electrophysiological phases of the cardiac cell measured in millivolts (mV): *x(t)* corresponds to the repolarization phase, *y(t)* represents the depolarization phase, and *z(t)* models the refractory phase. The system is governed by the following equations:
 
