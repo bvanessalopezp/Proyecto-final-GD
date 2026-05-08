@@ -17,10 +17,14 @@ Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de 
 # Course Description
 
 The Digital Twins course is part of the Biomedical Engineering curriculum with the following general course competency: Formulates the digital twin through experimental data for the development of control strategies using nonlinear dynamic systems theories and in silico experimentation. This course aims to provide the Biomedical Engineer with the capacity to conduct scientific research in the area of Systems Biology, with the purpose of leading and participating in interdisciplinary work teams in national and international contexts, as well as providing computational solutions to solve problems in the field of Biomedical Engineering with professional ethics.
+
 In the context of dynamic systems describing biological or physiological systems, in silico modeling is a logical extension of controlled in vitro experimentation. It is the natural result of the dramatic increase in computational power available at a continuously decreasing cost, combining the advantages of both in vivo and in vitro experimentation without being subject to the ethical considerations and lack of control associated with in vivo experiments. Unlike in vitro experiments, which exist in isolation, in silico models allow for the inclusion of a virtually unlimited set of variables and parameters, making results more applicable to real-world problems.
+
 In silico experimentation has given rise to the paradigm known as "digital twins." In essence, digital twins are a replica or digital representation of a real-world process or system  where "replica" refers to a computational model developed on the basis of experimental data and special characteristics that allow it to connect the physical with the virtual, with the purpose of improving system performance, detecting and preventing failures, and making predictions about its response to different stimuli or operating scenarios. A more formal definition establishes that: a digital twin is a set of adaptive models that emulate the behavior of a physical system within a virtual system, obtaining real-time data to update itself throughout its life cycle; it replicates the physical system to predict failures and opportunities for change, prescribing real-time actions to optimize and/or mitigate unexpected events by observing and evaluating the system's operational profile.
+
 In the particular field of Systems Biology, a digital twin is presented as an algorithm or set of computational algorithms developed on the basis of mechanistic models of a living organism, with the objective of emulating its physiology to illustrate its dynamics in both the short and long term, as well as predicting its response to different endogenous and exogenous stimuli.
-#Objetive
+
+# Objetive
 To develop a digital twin of cardiac action potential dynamics by formulating a nonlinear mathematical model based on experimental data, enabling in silico experimentation to analyze, predict, and control the repolarization, depolarization, and refractory phases of cardiac cell behavior.
 ## Mathematical Model
 
