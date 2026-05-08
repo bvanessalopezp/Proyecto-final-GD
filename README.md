@@ -34,9 +34,9 @@ $$\dot{z}(t) = \rho_6 z - \rho_7 xz$$
 
 where $\rho_1$ through $\rho_7$ are the model parameters to be estimated from data. In the first equation, the term $\rho_1 x$ drives the natural growth or decay of repolarization, the term $\rho_2 xz$ captures how the refractory state influences repolarization, and the term $-\rho_3 x^2$ introduces a self-limiting effect that prevents the variable from growing without bound. The second equation describes depolarization dynamics, where $\rho_4 y$ reflects the cell's natural tendency to depolarize and $-\rho_5 xy$ shows how repolarization suppresses this excitation, meaning that as *x* grows, depolarization is reduced. Finally, the third equation models the refractory phase, where $\rho_6 z$ represents the natural progression of recovery and $-\rho_7 xz$ captures how repolarization shortens or reduces the refractory state over time. Together, these three coupled equations form a nonlinear system that reproduces the essential electrophysiological behavior of a cardiac cell, serving as the mechanistic core of the proposed digital twin.
 
-Keywords. Mathemetical model, linear regression, 2T prodiction, equilibrium points, electrophysiology 
+Keywords. Mathemetical model, linear regression, 2T prediction, equilibrium points, electrophysiology 
 
-#Planned Activities
+# Planned Activities
 A literature review on cardiac electrophysiology and dynamic systems modeling was conducted, establishing the theoretical foundation required to justify the proposed mathematical model.
 The nonlinear mathematical model governing the three-state cardiac system — repolarization x(t), depolarization y(t), and refractory z(t) — was defined and analyzed by applying dynamic systems theory acquired throughout the course.
 Simulation data were generated and processed, obtaining smooth and normalized datasets that accurately represent the physiological behavior described by the model.
