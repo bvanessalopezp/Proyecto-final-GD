@@ -2,9 +2,9 @@
 
 # Final Project:  mathematical model of cardiac cycle
 
-## Información de la estudiante
-Brianna Vanessa Lopez Pardo \[22212261]; L22212261@tijuana.tecn.mx
-
+## Información de los estudiantes
+Brianna Vanessa Lopez Pardo \[22212261]; L22212261@tijuana.tecnm.mx
+Dario Antonio Martinez Camarena \[21210684]; L21210684@tijuana.tecnm.mx
 Gemelos Digitales
 
 Ingeniería Biomédica
